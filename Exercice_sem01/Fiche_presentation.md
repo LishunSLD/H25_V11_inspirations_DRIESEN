@@ -6,4 +6,4 @@
 - [Web](https://github.com/LishunSLD/H25_V11_inspirations_DRIESEN)
 - Animation
 
-![cube.png](./img/sucCube.png)
+![Pas un égoportrait](./img/sucCube.png)
