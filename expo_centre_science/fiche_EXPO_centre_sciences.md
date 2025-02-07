@@ -1,1 +1,0 @@
-# Exposition au Centre des sciences
