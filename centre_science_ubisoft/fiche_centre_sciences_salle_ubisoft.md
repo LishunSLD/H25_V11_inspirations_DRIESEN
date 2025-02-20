@@ -28,6 +28,8 @@ Pour que le dispositif soit présentable, le Centre des sciences a dû fournir u
 
 Mon expérience de ce dispositif était assez positif. Il est plutôt simple, mais est executé de grande qualité dans le programme utilisé pour démontrer la conduite intelligente sur l'écran. Non seulement le visuel est beau, mais il est aussi intuitif et visuellement impressionnant.
 
+
+### Mon expérience de la visite
 ![Ensemble Eau](./img/ensemble_eau.jpg "William Briand et Delphine Gagnon, photographié par Sean Larry Driesen")
 
 Du côté de la visite, mon expérience de celle-ci était plaisante même si j'y ai déja été auparavant. J'ai grandement apprécié la section hydraulique de l'exposition. Cette eau est grandement satisfaisante à regarder, et le lien avec toute notre électricité produite par Hydro-Québec ajoute un lien tangible.
