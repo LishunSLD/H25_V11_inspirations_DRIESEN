@@ -1,1 +1,1 @@
-Exposition au Centre des sciences
+Exposition au Centre des sciences à Montréal
