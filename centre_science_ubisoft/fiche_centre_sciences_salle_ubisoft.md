@@ -18,6 +18,7 @@ Le dispositif d'Ubisoft « Intelligente, la conduite ? » comprend un dispositif
 ### Mise en espace
 
 ![Dispositif Ubisoft](./img/ubisoft_ensemble.jpg)
+![Croquis](./img/croquis.jpg)
 
 <br>
 
