@@ -11,6 +11,8 @@ Etheria est un jeu vidéo interactif projeté sur une table, se jouant avec plus
 
 Etheria requiert un espace pour une table, un projecteur par-dessus et un espace pour le matériel qui supportera le logicial pour le jeu qui sera projeté.
 
+![Plan de l'espace](./img/etheria_plan.jpg)
+
 <br>
 
 ## Composantes et techniques
