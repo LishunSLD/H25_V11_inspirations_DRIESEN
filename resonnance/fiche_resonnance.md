@@ -32,7 +32,7 @@ Arcadia est un projet finissant créé par Dominic Yale, William Beauvais et Ant
 
 L'installation d'Arcadia comprenait leur jeu vidéo dans une borne d'arcade classique, avec un joystick et des boutons.
 
-![Schéma](./img/arcadia-schema.png)
+![Schéma](./img/arcadia_schema.png)
 
 ### Mon expérience
 
@@ -98,7 +98,7 @@ Internature est un projet finissant créé par Kenza El Harrif, Isaac Fafard, De
 
 L'installation de Internature comportait une large serre étant un cylindre ouvert avec des projections sur les murs. Une sphère dans le milieu permettait d'interagir avec les projections.
 
-![Schéma](./img/internature-schema.jpg)
+![Schéma](./img/internature_schema.jpg)
 
 ### Mon expérience
 
@@ -120,7 +120,7 @@ Prismatica est un projet finissant créé par Ikrame Rata, Jérémy Duverseau et
 
 L'installation de Prismatica comportait une table avec une caméra de détection au-dessus, et un projecteur mural.
 
-![Schéma](./img/prismatica-schema.jpg)
+![Schéma](./img/prismatica_schema.jpg)
 
 ### Mon expérience
 
