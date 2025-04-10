@@ -1,0 +1,1 @@
+Dossier contenant la fiche du résumé sur la conférence de Jade Seguela.

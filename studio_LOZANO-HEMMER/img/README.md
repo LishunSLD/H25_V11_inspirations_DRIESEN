@@ -1,0 +1,1 @@
+Ce dossier contient les images pour la fiche sur la conférence de Jade Seguela.
