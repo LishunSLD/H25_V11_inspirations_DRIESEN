@@ -1,6 +1,6 @@
 # Résumé de la conférence de Jade Seguela
 
-Jade Seguela est une registraire chez l'atelier Rafael Lozano-Hemmer. Rafael Lozano-Hemmer est un artiste mexicain-canadien. Son domaine était, à la base, celui des sciences, avant de devenir un artiste d'œuvre interactives. C'est ce que son atelier produit. Durant sa conférence du 25 mars 2025, Jade Seguela expliquait le fonctionnement du studio derrière plusieurs œuvres exposés partout dans le monde et la logistique demandé pour réaliser et exposer quelque de ces œuvres. Chacune de ces œuvres a besoin d'un travail complet de recherche, production, conservation et exposition. Les œuvres de *Sphere Packing: Bach* et *Shadow Tuner* étaient ses exemples.
+Jade Seguela est une registraire chez l'atelier Rafael Lozano-Hemmer. Rafael Lozano-Hemmer est un artiste mexicain-canadien. Son domaine était, à la base, celui des sciences, avant de devenir un artiste d'œuvre interactives. C'est ce que son atelier produit. Durant sa conférence du 25 mars 2025, Jade Seguela expliquait le fonctionnement du studio derrière plusieurs œuvres exposés partout dans le monde et la logistique demandé pour réaliser et exposer quelque de ces œuvres. Chacune de ces œuvres a besoin d'un travail complet de recherche, production, conservation et exposition.
 
 ## *Sphere Packing: Bach*
 
@@ -16,8 +16,9 @@ Le *Shadow Tuner* est une œuvre faisant partie de l'exposition « Translation I
 
 ## Conclusion
 
-Bref, l'atelier Rafael Lozano-Hemmer produit des œuvres interactives multimédias qui sont exposés à travers le monde. Chacune de ces œuvres, comme le *Shadow Tuner* ou *Sphere Packing: Bach* demandent une grande logistique derrière leur production et assemblage, comme Jade Seguela a expliqué durant la conférence du 25 mars 2025.
+Bref, l'atelier Rafael Lozano-Hemmer produit des œuvres interactives multimédias qui sont exposés à travers le monde. Chacune de ces œuvres, comme le *Shadow Tuner* ou *Sphere Packing: Bach* demandent une grande logistique derrière leur production et assemblage, comme Jade Seguela a expliqué durant la conférence du 25 mars 2025. J'ai apprécié qu'une registraire de ce studio a pu venir nous expliquer en détail et en toute authenticitié le processus derrière ces oeuvres, comme elle a participé personellement.
 
 ## Références
 
-*Rafael Lozano-Hemmer* - *Rafael Lozano-Hemmer : Translation Island.* (s. d.). https://www.lozano-hemmer.com/exhibitions/rafael_lozano-hemmer_translation_island_abu_dhabi_2023.php
+*Rafael Lozano-Hemmer* - *Rafael Lozano-Hemmer : Sphere Packing: Bach.* (s. d.). https://www.lozano-hemmer.com/sphere_packing_bach.php
+*Rafael Lozano-Hemmer* - *Rafael Lozano-Hemmer : Shadow Tuner.* (s. d.). https://www.lozano-hemmer.com/shadow_tuner.php
