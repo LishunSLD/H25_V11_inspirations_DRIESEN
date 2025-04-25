@@ -1,0 +1,1 @@
+Dossier contenant la fiche sur le dispositif la « Ville-machine » de l'exposition « Montréal » du Centre des mémoires montréalaises dans le cadre du TP3 pour le cours 570V11MO Oeuvres et dispositifs multimédias.

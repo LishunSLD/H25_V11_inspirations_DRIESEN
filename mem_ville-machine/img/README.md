@@ -1,0 +1,1 @@
+Ce dossier contient les images pour la fiche sur le dispositif la « Ville-machine » de l'exposition « Montréal » du Centre des mémoires montréalaises.

@@ -1,0 +1,1 @@
+Ce dossier contient les images pour la fiche sur l'oeuvre du Musée des beaux-arts de Montréal.

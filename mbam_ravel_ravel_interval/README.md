@@ -1,0 +1,1 @@
+Dossier contenant la fiche sur l'oeuvre du Musée des beaux-arts de Montréal dans le cadre du TP5 pour le cours 570V11MO Oeuvres et dispositifs multimédias.
